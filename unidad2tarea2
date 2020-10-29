@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T08:13:32.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="LUavJKbFhtkF8R2oaKJm" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T08:17:10.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="AwxzJyhhAP2L2KJkXX9H" version="13.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,6 +231,18 @@
             <mxPoint x="688" y="121.82" as="sourcePoint" />
             <mxPoint x="738" y="94.82" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8Xn54dfAb5cJQeZ4n2Gr-0" value="fk_IdMascota" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="473" y="59.5" width="90" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8Xn54dfAb5cJQeZ4n2Gr-1" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="87.5" width="68" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8Xn54dfAb5cJQeZ4n2Gr-2" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="91.5" width="68" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8Xn54dfAb5cJQeZ4n2Gr-3" value="" style="line;strokeWidth=1;direction=south;html=1;rotation=-75;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="539.38" y="87.28" width="10" height="55.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
